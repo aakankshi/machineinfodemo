@@ -1,0 +1,7 @@
+Objective
+Learn Git to keep track of your space station locations.
+
+Mission Brief
+Hoping to learn the ropes of Bitbucket? Good news cadet!
+ You've just been put in charge of running your team's space stations. 
+To complete your first mission, take advantage of what Git has to offer to track down all station locations.
